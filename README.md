@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Palacios</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles currently living in Italy</h3>
+<h3 align="center">A passionate backend developer from Los Angeles currently living in Italy</h3>
 
 - 🤝 I’m open to work !
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.peterpalacios.com/](https://www.peterpalacios.com/)
 
-- 💬 Ask me about **.NET Core, Backend development**
+- 💬 Ask me about **.NET Core**
 
 - 📫 How to reach me **peter1palacios@outlook.com**
 
