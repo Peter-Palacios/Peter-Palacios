@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peter Palacios</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles currently living in Italy</h3>
 
+- 🤝 I’m open to work !
+
 - 🌱 I’m currently learning **Unity, Full-Stack Web development**
 
 - 👨‍💻 All of my projects are available at [https://www.peterpalacios.com/](https://www.peterpalacios.com/)
