@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Palacios</h1>
 <h3 align="center">A passionate backend developer from Los Angeles currently living in Italy</h3>
 
-- 🤝 I’m open to work !
+- 🤝 Happy to start my journey as a new Dev with Capgemini!
 
 - 🌱 I’m currently learning **Unity, Full-Stack Web development**
 
