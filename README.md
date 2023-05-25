@@ -3,11 +3,11 @@
 
 - 🤝 Happy to be continuing my journey as a backend developer with Electrolux!
 
-- 🌱 I’m currently learning **Unity, IoT development, Azure cloud development**
+- 🌱 I’m currently learning **Unity, IoT development**
 
 - 👨‍💻 All of my projects are available at [https://www.peterpalacios.com/](https://www.peterpalacios.com/)
 
-- 💬 Ask me about **.NET Core**
+- 💬 Ask me about **.NET Core, Microsoft Azure**
 
 - 📫 How to reach me **peter1palacios@outlook.com**
 
