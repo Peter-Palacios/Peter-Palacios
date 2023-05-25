@@ -3,7 +3,7 @@
 
 - 🤝 Happy to be continuing my journey as a backend developer with Electrolux!
 
-- 🌱 I’m currently learning **Unity, Full-Stack Web development**
+- 🌱 I’m currently learning **Unity, IoT development, Azure cloud development**
 
 - 👨‍💻 All of my projects are available at [https://www.peterpalacios.com/](https://www.peterpalacios.com/)
 
