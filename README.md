@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Palacios</h1>
-<h3 align="center">A passionate backend developer from Los Angeles currently living in Europe</h3>
+<h3 align="center">A passionate backend developer from California currently living in Europe</h3>
 
 - 🤝 Happy to be continuing my journey as a backend developer with Electrolux!
 
