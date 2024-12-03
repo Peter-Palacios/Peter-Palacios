@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Unity, IoT development**
 
-- 👨‍💻 All of my projects are available at [https://www.peterpalacios.com/](https://www.peterpalacios.com/)
-
 - 💬 Ask me about **.NET Core, Microsoft Azure**
 
 - 📫 How to reach me **peter1palacios@outlook.com**
