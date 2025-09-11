@@ -3,10 +3,6 @@
 
 - 🤝 Happy to be continuing my journey as a backend developer with Electrolux!
 
-- 🌱 I’m currently learning **Unity, IoT development**
-
-- 💬 Ask me about **.NET Core, Microsoft Azure**
-
 - 📫 How to reach me **peter1palacios@outlook.com**
 
 - ⚡ Fun fact **I was project manager for a Rover building team competition for NASA**
