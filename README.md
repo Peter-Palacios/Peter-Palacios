@@ -3,10 +3,6 @@
 
 - 🤝 Happy to be continuing my journey as a backend developer with Electrolux!
 
-- 📫 How to reach me **peter1palacios@outlook.com**
-
-- ⚡ Fun fact **I was project manager for a Rover building team competition for NASA**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peter-palacios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-palacios" height="30" width="40" /></a>
